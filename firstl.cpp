@@ -2,7 +2,7 @@
 
 int main(){
 
-cout << "Hi groupmates;)" << endl;
+cout << "Hi group;)" << endl;
 return 0;
 }
 
